@@ -1,0 +1,13 @@
+{
+    "name": "m-sayari/ascii-table",
+    "require": {
+        "phpunit/phpunit": "3.7.*"
+    },
+    "authors": [
+        {
+            "name": "Marouen SAYARI",
+            "email": "sayari.marouen@hotmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
